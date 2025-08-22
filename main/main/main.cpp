@@ -1,9 +1,9 @@
 ﻿#include <iostream>
-#include "player.h"
-#include "warrior.h"
-#include "magician.h"
-#include "thief.h"
-#include "archer.h"
+#include "Player.h"
+#include "Warrior.h"
+#include "Magician.h"
+#include "Thief.h"
+#include "Archer.h"
 using namespace std;
 
 // 메인 함수
